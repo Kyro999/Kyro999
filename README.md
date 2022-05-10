@@ -12,7 +12,9 @@
 
 💼: Programmer & Music Engineer
 
-📫: calvinracz999@gmail.com (Discord: Kyro#5050)
+📫(Discord): Kyro#5050
+
+📫(Instagram): calvin_999_2
 
 ### My Current Stats 🔥
 
