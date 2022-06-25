@@ -15,7 +15,3 @@
 📫(Discord): Kyro#5050
 
 📫(Instagram): calvin_999_2
-
-### My Current Stats 🔥
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
